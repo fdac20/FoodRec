@@ -1,6 +1,6 @@
 # Food Rec Project
 
-## Minimum Viable Product:  
+### Minimum Viable Product:  
  * Uploading the dataset.  
  * Converting JSON to CSV.  
  * Parsing the business data into different categories (Mexican, Asian, etc).  
