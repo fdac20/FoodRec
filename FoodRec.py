@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+
 #Reading in the .json file#
 df_b = pd.read_json('yelp_academic_dataset_business.json', lines=True)
 
